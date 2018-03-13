@@ -1,6 +1,6 @@
 <project name="HelloWorld" default="compiler" basedir=".">
 <target name="compiler">
-<mkdir dir = "Helloworldclassfiles">
-<javac srcdir="srcfile" destdir="Helloworldclassfiles">
+<mkdir dir = "Helloworldclassfiles"/>
+<javac srcdir="srcfile" destdir="Helloworldclassfiles"/>
 </target>
 </project>
